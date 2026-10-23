@@ -19,6 +19,8 @@
 
 I build and ship production software: Go microservices behind Next.js front ends, plus tooling that lets AI agents drive real browsers and media pipelines. I like small, verified changes that match the code around them.
 
+> **Account note:** my previous GitHub account, `md-fahad-ali`, was suspended. This is my new account. I have filed an appeal with GitHub Support, and my earlier projects will return here or to that account once it is resolved.
+
 ## Focus areas
 
 | Area | What I do | Tools |
